@@ -8,10 +8,10 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 
 | File | Description |
 |------|-------------|
-| <a href="https://your-link.com/Facebook%20Analytics.xlsx" target="_blank">Facebook Analytics.xlsx</a> | Raw Facebook data exported for pre-processing, used as input for Tableau and Power BI. |
-| <a href="https://your-link.com/Facebookdata_Queries.sql" target="_blank">Facebookdata_Queries.sql</a> | SQL scripts used to calculate KPIs like CPC, CTR, CPL, ROI, and extract key insights. |
-| <a href="https://your-link.com/Facebook%20Analytics%20Dashboard.twbx" target="_blank">Facebook Analytics Dashboard.twbx</a> | Tableau packaged workbook featuring visual analysis of reach, impressions, reactions, and post engagement. |
-| <a href="https://your-link.com/Facebook_final_Dashboard_pbix.pbix" target="_blank">Facebook_final_Dashboard_pbix.pbix</a> | Power BI dashboard with interactive charts on demographics, campaign ROI, clicks, and more. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics.xlsx" target="_blank">Facebook Analytics.xlsx</a> | Raw Facebook data exported for pre-processing, used as input for Tableau and Power BI. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebookdata_Queries.sql" target="_blank">Facebookdata_Queries.sql</a> | SQL scripts used to calculate KPIs like CPC, CTR, CPL, ROI, and extract key insights. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.twbx target="_blank">Facebook Analytics Dashboard.twbx</a> | Tableau packaged workbook featuring visual analysis of reach, impressions, reactions, and post engagement. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook_final_Dashboard_pbix.pbix" target="_blank">Facebook_final_Dashboard_pbix.pbix</a> | Power BI dashboard with interactive charts on demographics, campaign ROI, clicks, and more. |
 
 > 🔗 Replace the file links with actual URLs after uploading to GitHub or cloud storage.
 
@@ -56,7 +56,7 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 - Content Type Performance (Image, Video, Link)  
 - Audience Behavior by Date  
 
-<img src="https://your-link.com/screenshots/tableau_dashboard.png" alt="Tableau Dashboard" width="600"/>
+<img src="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Screenshot%202025-06-02%20184314.png" alt="Tableau Dashboard" width="600"/>
 
 ---
 
@@ -66,7 +66,7 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 - Gender & Age Group Performance  
 - Campaign Leaderboard and Ad Set Efficiency  
 
-<img src="https://your-link.com/screenshots/powerbi_dashboard.png" alt="Power BI Dashboard" width="600"/>
+<img src="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Screenshot%202025-06-02%20184615.png" alt="Power BI Dashboard" width="600"/>
 
 ---
 
