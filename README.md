@@ -153,7 +153,7 @@ This project provides a 360° view of LinkedIn performance using Excel, SQL, Tab
 - Monthly trend chart  
 - Virality-focused visuals  
 
-<img src="https://your-link.com/screenshots/linkedin_tableau_dashboard.png" alt="LinkedIn Tableau Dashboard" width="600"/>
+<img src="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Screenshot%202025-06-02%20192131.png" alt="LinkedIn Tableau Dashboard" width="600"/>
 
 ---
 
@@ -162,7 +162,7 @@ This project provides a 360° view of LinkedIn performance using Excel, SQL, Tab
 - Post type and performance filters  
 - Views, comments, reactions leaderboard  
 
-<img src="https://your-link.com/screenshots/linkedin_powerbi_dashboard.png" alt="LinkedIn Power BI Dashboard" width="600"/>
+<img src="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Screenshot%202025-06-02%20191854.png" alt="LinkedIn Power BI Dashboard" width="600"/>
 
 ---
 
