@@ -84,3 +84,109 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 1. Clone the repository:
    ```bash
    git clone https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.zip
+
+
+---
+---
+# 📈 LinkedIn Media Analytics Dashboard
+
+This project provides a 360° view of LinkedIn performance using Excel, SQL, Tableau, and Power BI. It tracks and visualizes metrics like engagement rate, views, post topics, virality, and content effectiveness—empowering content teams to make informed decisions for professional branding and social engagement.
+
+---
+
+## 🔍 Project Summary
+
+- **Data Sources**: LinkedIn export data processed via Excel.
+- **Back-end Analysis**: SQL used to clean, transform, and generate key insights (engagement, views, virality).
+- **Front-end Visualization**: Interactive dashboards built using Tableau and Power BI.
+- **Objective**: Identify top-performing content types, optimize post timing, and boost engagement strategy.
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| <a href="https://your-link.com/Linkedin%20Analytics.xlsx" target="_blank">Linkedin Analytics.xlsx</a> | Raw LinkedIn data file, used for preprocessing and feeding into dashboards. |
+| <a href="https://your-link.com/linkedin_final_query.sql" target="_blank">linkedin_final_query.sql</a> | SQL queries for extracting insights like top posts, engagement by topic, virality, and timing patterns. |
+| <a href="https://your-link.com/Linkedin%20Analytics%20Dashboard.twbx" target="_blank">Linkedin Analytics Dashboard.twbx</a> | Tableau workbook to visualize metrics like post topic performance and engagement over time. |
+| <a href="https://your-link.com/LinkedIn%20Analytics%20Dashboard.pbix" target="_blank">LinkedIn Analytics Dashboard.pbix</a> | Power BI dashboard with filters and visuals on views, engagement, and virality scores. |
+
+---
+
+## 📊 Key Metrics Analyzed
+
+| Metric | Description |
+|--------|-------------|
+| **Engagement Rate** | Measures the rate of interaction (reactions, comments, shares) per post. |
+| **Views** | Total number of times posts were viewed. |
+| **Comments & Reactions** | Indicators of audience interest and resonance. |
+| **Virality Score** | Custom metric combining reactions, comments, and shares to rank post popularity. |
+| **Post Topic** | Categories of content used to understand what themes perform best. |
+| **Post Length** | Used to measure optimal text size for engagement. |
+| **Time Patterns** | Engagement trends by day of week and month for posting strategy.
+
+---
+
+## 🧠 Key Contributions
+
+- ✅ Cleaned and normalized LinkedIn data using Excel and SQL (`STR_TO_DATE`, drop columns, add derived date fields).
+- ✅ Created SQL queries for:
+  - Top 5 posts by **engagement rate** and **views**
+  - Monthly **engagement trends**
+  - Post topic frequency & impact
+  - **Virality score** formula for custom ranking
+- ✅ Built interactive **Power BI** visuals including:
+  - Filters by topic, date, and post type
+  - Engagement & view trend lines
+  - Post leaderboard
+- ✅ Developed **Tableau** dashboards:
+  - Visual storytelling for professional content impact
+  - Highlighted topic performance and time-based engagement patterns
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 📌 Tableau Dashboard  
+- Engagement rate by post topic  
+- Monthly trend chart  
+- Virality-focused visuals  
+
+<img src="https://your-link.com/screenshots/linkedin_tableau_dashboard.png" alt="LinkedIn Tableau Dashboard" width="600"/>
+
+---
+
+### 📌 Power BI Dashboard  
+- Interactive engagement breakdown  
+- Post type and performance filters  
+- Views, comments, reactions leaderboard  
+
+<img src="https://your-link.com/screenshots/linkedin_powerbi_dashboard.png" alt="LinkedIn Power BI Dashboard" width="600"/>
+
+---
+
+## 🛠 Tech Stack
+
+- **SQL (MySQL)** – Querying, aggregations, calculated metrics  
+- **Microsoft Excel** – Data cleaning and transformation  
+- **Tableau** – Visual analytics and presentation dashboards  
+- **Power BI** – Advanced interactive dashboards and filters
+
+---
+
+## 📌 Business Impact
+
+- 📈 Identified top-performing **post topics** that generate highest engagement  
+- 📆 Recommended **optimal posting days** for visibility and interaction  
+- 🔁 Provided strategic insights into **content format and length effectiveness**  
+- 🧲 Used custom **virality scoring** to assess impact of past posts and shape future strategy
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/linkedin-media-analytics.git
+
