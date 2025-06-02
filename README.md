@@ -83,7 +83,7 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.zip
+   git clone https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics.zip
 
 
 ---
@@ -107,10 +107,10 @@ This project provides a 360° view of LinkedIn performance using Excel, SQL, Tab
 
 | File | Description |
 |------|-------------|
-| <a href="https://your-link.com/Linkedin%20Analytics.xlsx" target="_blank">Linkedin Analytics.xlsx</a> | Raw LinkedIn data file, used for preprocessing and feeding into dashboards. |
-| <a href="https://your-link.com/linkedin_final_query.sql" target="_blank">linkedin_final_query.sql</a> | SQL queries for extracting insights like top posts, engagement by topic, virality, and timing patterns. |
-| <a href="https://your-link.com/Linkedin%20Analytics%20Dashboard.twbx" target="_blank">Linkedin Analytics Dashboard.twbx</a> | Tableau workbook to visualize metrics like post topic performance and engagement over time. |
-| <a href="https://your-link.com/LinkedIn%20Analytics%20Dashboard.pbix" target="_blank">LinkedIn Analytics Dashboard.pbix</a> | Power BI dashboard with filters and visuals on views, engagement, and virality scores. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Linkedin%20Analytics.xlsx" target="_blank">Linkedin Analytics.xlsx</a> | Raw LinkedIn data file, used for preprocessing and feeding into dashboards. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/linkedin_final_query.sql" target="_blank">linkedin_final_query.sql</a> | SQL queries for extracting insights like top posts, engagement by topic, virality, and timing patterns. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Linkedin%20Analytics%20Dashboard.twbx" target="_blank">Linkedin Analytics Dashboard.twbx</a> | Tableau workbook to visualize metrics like post topic performance and engagement over time. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/LinkedIn%20Analytics%20Dashboard.pbix" target="_blank">LinkedIn Analytics Dashboard.pbix</a> | Power BI dashboard with filters and visuals on views, engagement, and virality scores. |
 
 ---
 
@@ -188,5 +188,5 @@ This project provides a 360° view of LinkedIn performance using Excel, SQL, Tab
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-media-analytics.git
+   git clone https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Linkedin%20Analytics.zip
 
