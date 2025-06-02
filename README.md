@@ -10,7 +10,7 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 |------|-------------|
 | <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics.xlsx" target="_blank">Facebook Analytics.xlsx</a> | Raw Facebook data exported for pre-processing, used as input for Tableau and Power BI. |
 | <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebookdata_Queries.sql" target="_blank">Facebookdata_Queries.sql</a> | SQL scripts used to calculate KPIs like CPC, CTR, CPL, ROI, and extract key insights. |
-| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.twbx target="_blank">Facebook Analytics Dashboard.twbx</a> | Tableau packaged workbook featuring visual analysis of reach, impressions, reactions, and post engagement. |
+| <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.twbx" target="_blank">Facebook Analytics Dashboard.twbx</a> | Tableau packaged workbook featuring visual analysis of reach, impressions, reactions, and post engagement. |
 | <a href="https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook_final_Dashboard_pbix.pbix" target="_blank">Facebook_final_Dashboard_pbix.pbix</a> | Power BI dashboard with interactive charts on demographics, campaign ROI, clicks, and more. |
 
 > 🔗 Replace the file links with actual URLs after uploading to GitHub or cloud storage.
@@ -83,4 +83,4 @@ This project delivers an end-to-end Facebook Media Analytics solution using SQL,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facebook-media-analytics.git
+   git clone https://github.com/MadanShetty818/Media_Anlytics-Facebook-LinkedIn-/blob/main/Facebook%20Analytics%20Dashboard.zip
